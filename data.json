@@ -1,0 +1,26 @@
+[
+  {
+    "name": "London Gray",
+    "hex": "6C5F57",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-London-Gray-Satin-General-Purpose-Spray-Paint-6-Pack-249857/204662878"
+  },
+  {
+    "name": "Colonial Red",
+    "hex": "920122",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Colonial-Red-Gloss-General-Purpose-Spray-Paint-6-Pack-249116/202058697"
+  },
+  {
+    "name": "White",
+    "hex": "FFFFFF",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-White-Gloss-General-Purpose-Spray-Paint-6-Pack-249090/202071066"
+  },
+  {
+    "name": "Brilliant Blue",
+    "hex": "0075C1",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Brilliant-Blue-Gloss-General-Purpose-Spray-Paint-6-Pack-249120/202058701"
+  }
+]
