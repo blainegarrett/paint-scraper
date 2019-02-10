@@ -12,17 +12,17 @@ var fs = require('fs');
 const DATAFILE = 'data.json';
 
 // EDIT THIS OBJECT TO ADD YOUR URLS
-let urls = [
-  'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-London-Gray-Satin-General-Purpose-Spray-Paint-6-Pack-249857/204662878',
-  'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Colonial-Red-Gloss-General-Purpose-Spray-Paint-6-Pack-249116/202058697',
-  'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-White-Gloss-General-Purpose-Spray-Paint-6-Pack-249090/202071066',
-  'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Brilliant-Blue-Gloss-General-Purpose-Spray-Paint-6-Pack-249120/202058701',
-  'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Brilliant-Blue-General-Purpose-Spray-Paint-249120/100670432'
-];
+// eg: https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Warm-Caramel-Satin-General-Purpose-Spray-Paint-6-Pack-267118/203872979
+let urls = [];
+
+// TODO: These fail to parse - need to tighten up the regexp
+//  'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Flat-Gray-Primer-General-Purpose-Spray-Paint-249088/100670412'
+//   'https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Flat-Red-Primer-General-Purpose-Spray-Paint-249086/100670434',
+
 // TODO: Leverage a command line argument or infile
 
-
 // No Need to edit below this line for normal usage...
+
 
 let totalRecords = 0;
 let totalNewRecords = 0;

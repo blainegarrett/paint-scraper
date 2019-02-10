@@ -22,5 +22,239 @@
     "hex": "0075C1",
     "sheen": "Gloss",
     "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Brilliant-Blue-Gloss-General-Purpose-Spray-Paint-6-Pack-249120/202058701"
+  },
+  {
+    "name": "Claret Wine",
+    "hex": "601925",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Claret-Wine-General-Purpose-Spray-Paint-6-Pack-249083/202058673"
+  },
+  {
+    "name": "Vintage Blush",
+    "hex": "A98382",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Vintage-Blush-Satin-General-Purpose-Spray-Paint-6-Pack-299887/207170275"
+  },
+  {
+    "name": "Granite",
+    "hex": "A1AEA7",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Granite-General-Purpose-Spray-Paint-6-Pack-249078/202058668"
+  },
+  {
+    "name": "Navajo White",
+    "hex": "FEF9E5",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Navajo-White-General-Purpose-Spray-Paint-249099/100670414"
+  },
+  {
+    "name": "Dark Walnut",
+    "hex": "212121",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Dark-Walnut-General-Purpose-Spray-Paint-257462/202531678"
+  },
+  {
+    "name": "Canyon Black",
+    "hex": "202020",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Canyon-Black-Satin-General-Purpose-Spray-Paint-249844/205585744"
+  },
+  {
+    "name": "Dark Gray",
+    "hex": "646368",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Dark-Gray-General-Purpose-Spray-Paint-249115/100670419"
+  },
+  {
+    "name": "Navy Blue",
+    "hex": "061B3A",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Navy-Blue-General-Purpose-Spray-Paint-249098/100670433"
+  },
+  {
+    "name": "Midnight Blue",
+    "hex": "091734",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Midnight-Blue-General-Purpose-Spray-Paint-249854/300456592"
+  },
+  {
+    "name": "Ink Blue",
+    "hex": "272C66",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Ink-Blue-General-Purpose-Spray-Paint-314754/300456590"
+  },
+  {
+    "name": "Apple Red",
+    "hex": "A407",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Apple-Red-General-Purpose-Spray-Paint-315396/300456595"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "601A25",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Cinnamon-General-Purpose-Spray-Paint-249084/100670447"
+  },
+  {
+    "name": "Warm Caramel",
+    "hex": "CF8A49",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Warm-Caramel-General-Purpose-Spray-Paint-267118/203872788"
+  },
+  {
+    "name": "Nutmeg",
+    "hex": "8D6B3E",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Nutmeg-General-Purpose-Spray-Paint-249070/100670436"
+  },
+  {
+    "name": "Smokey Beige",
+    "hex": "CAC1BA",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Smokey-Beige-Satin-General-Purpose-Spray-Paint-299883/207139541"
+  },
+  {
+    "name": "Heirloom White",
+    "hex": "F2EBCF",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Heirloom-White-General-Purpose-Spray-Paint-249076/100670446"
+  },
+  {
+    "name": "Ivory Silk",
+    "hex": "F9E7CF",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Ivory-Silk-General-Purpose-Spray-Paint-249073/100670442"
+  },
+  {
+    "name": "Stone Gray",
+    "hex": "B1ADAA",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Stone-Gray-Satin-General-Purpose-Spray-Paint-249855/205585746"
+  },
+  {
+    "name": "Vintage Teal",
+    "hex": "5C9398",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Vintage-Teal-General-Purpose-Spray-Paint-316292/300531644"
+  },
+  {
+    "name": "Lagoon",
+    "hex": "187DB1",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Lagoon-General-Purpose-Spray-Paint-257461/202531743"
+  },
+  {
+    "name": "Magenta",
+    "hex": "9E059",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Magenta-General-Purpose-Spray-Paint-283188/205674786"
+  },
+  {
+    "name": "Berry Pink",
+    "hex": "D53B77",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Berry-Pink-General-Purpose-Spray-Paint-249123/100670409"
+  },
+  {
+    "name": "Grape",
+    "hex": "5D3A8B",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Grape-General-Purpose-Spray-Paint-249113/100670435"
+  },
+  {
+    "name": "Real Orange",
+    "hex": "E56117",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Real-Orange-General-Purpose-Spray-Paint-249095/100670426"
+  },
+  {
+    "name": "Sun Yellow",
+    "hex": "FAE937",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Sun-Yellow-General-Purpose-Spray-Paint-6-Pack-249092/202058681"
+  },
+  {
+    "name": "Lemongrass",
+    "hex": "F1DF01",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Lemongrass-Satin-General-Purpose-Spray-Paint-6-Pack-263148/203160441"
+  },
+  {
+    "name": "Fossil",
+    "hex": "BEB898",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Fossil-General-Purpose-Spray-Paint-249080/100670408"
+  },
+  {
+    "name": "Deep Blue",
+    "hex": "254D8A",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Deep-Blue-General-Purpose-Spray-Paint-249114/100670430"
+  },
+  {
+    "name": "Hunter Green",
+    "hex": "004A25",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Hunter-Green-Gloss-General-Purpose-Spray-Paint-6-Pack-249111/202058693"
+  },
+  {
+    "name": "Kona Brown",
+    "hex": "1E0405",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Kona-Brown-General-Purpose-Spray-Paint-249102/100670406"
+  },
+  {
+    "name": "Meadow Green",
+    "hex": "035D3A",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Meadow-Green-General-Purpose-Spray-Paint-6-Pack-249100/202058688"
+  },
+  {
+    "name": "Golden Sunset",
+    "hex": "F6A80",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Golden-Sunset-Gloss-General-Purpose-Spray-Paint-6-Pack-299910/206609669"
+  },
+  {
+    "name": "Hunt Club Green",
+    "hex": "2D443C",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Hunt-Club-Green-General-Purpose-Spray-Paint-6-Pack-249074/202058665"
+  },
+  {
+    "name": "Candy Pink",
+    "hex": "F5B9D2",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Candy-Pink-Gloss-General-Purpose-Spray-Paint-6-Pack-249119/202058700"
+  },
+  {
+    "name": "Almond",
+    "hex": "E8E5C4",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Almond-General-Purpose-Spray-Paint-249125/100670416"
+  },
+  {
+    "name": "Eden",
+    "hex": "6A812F",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Eden-Satin-General-Purpose-Spray-Paint-6-Pack-257418/202561420"
+  },
+  {
+    "name": "Spring Green",
+    "hex": "274C5E",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Spring-Green-General-Purpose-Spray-Paint-314751/300457444"
+  },
+  {
+    "name": "Poppy Red",
+    "hex": "CF392A",
+    "sheen": "Satin",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Poppy-Red-General-Purpose-Spray-Paint-277994/204720162"
+  },
+  {
+    "name": "Purple",
+    "hex": "250548",
+    "sheen": "Gloss",
+    "productUrl": "https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Purple-General-Purpose-Spray-Paint-249097/100670449"
   }
 ]
